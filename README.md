@@ -1,2 +1,2 @@
 # simon-game
-Simon is an electronic game of short-term memory skill.
+Developed an interactive Simon Game web application using HTML, CSS, and JavaScript to test memory and pattern recognition.
